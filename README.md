@@ -35,7 +35,7 @@ git clone https://github.com/xeventech/resumify.git
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/resumify/thumnail.png?raw=true "Play")](https://youtu.be/2i87NU8tDeM)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/resumify/thumbnail.png?raw=true "Play")](https://youtu.be/2i87NU8tDeM)
 
 
 ## Thank you for reading, here's a cat:
